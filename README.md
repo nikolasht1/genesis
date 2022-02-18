@@ -1,5 +1,5 @@
 Genesis DevOps School:task
-Mykola Shtefanovych.
+- Mykola Shtefanovych.
 - copy file: docker-compose.yml with directory my_wordpress
 - Linux Ubuntu 18.04 tested
 - requirements:
